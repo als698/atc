@@ -1,0 +1,2030 @@
+{
+  "takeoffRequests": [
+    {
+      "id": "fa481a52-4f55-4549-a1f9-2b2de6084b1b",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 74000000
+      },
+      "type": "Takeoff",
+      "airplane": {
+        "id": "3ab202ab-5f54-46a7-92ef-90d96cf46e99",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 666000000
+        },
+        "tailNumber": "N72068",
+        "type": "Airbus A320",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 41,
+        "from": "DEN",
+        "passengers": 379,
+        "cargo": 14426,
+        "isFlying": true,
+        "fuelLevel": 3
+      },
+      "runway": {
+        "id": "Runway-31R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 49000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "92785206-9080-4617-a3f4-ed354106734e",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 74000000
+        },
+        "temperature": 26,
+        "condition": "Cloudy",
+        "windSpeed": 27,
+        "visibility": 9
+      },
+      "status": "rejected",
+      "reason": "Low fuel level"
+    },
+    {
+      "id": "3ea769ad-911f-41f0-9359-bbd864955411",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 74000000
+      },
+      "type": "Takeoff",
+      "airplane": {
+        "id": "ea5a8b83-1ce1-4fd0-ad5c-96b1d4fbd8ee",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N63110",
+        "type": "Boeing 737",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 145,
+        "from": "SFO",
+        "passengers": 151,
+        "cargo": 16370,
+        "isFlying": true,
+        "fuelLevel": 61
+      },
+      "runway": {
+        "id": "Runway-19R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "7e421571-070c-45a2-8149-53695c1b56c2",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 74000000
+        },
+        "temperature": 34,
+        "condition": "Stormy",
+        "windSpeed": 6,
+        "visibility": 3
+      },
+      "status": "rejected",
+      "reason": "Weather condition: Stormy"
+    },
+    {
+      "id": "3b460bd4-4d20-4d00-ac98-0848721dc7af",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 75000000
+      },
+      "type": "Takeoff",
+      "airplane": {
+        "id": "ee80a8fb-867e-4ead-92ae-b0fa6891d48c",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N32099",
+        "type": "Boeing 737",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 131,
+        "from": "ATL",
+        "passengers": 266,
+        "cargo": 15841,
+        "isFlying": true,
+        "fuelLevel": 21
+      },
+      "runway": {
+        "id": "Runway-9L",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "a2aa6de5-c12c-431b-a37d-7b55d34e15f6",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 75000000
+        },
+        "temperature": 28,
+        "condition": "Cloudy",
+        "windSpeed": 14,
+        "visibility": 5
+      },
+      "status": "rejected",
+      "reason": "Low fuel level"
+    },
+    {
+      "id": "41d7e171-b0ee-45c8-a525-9f3f50f5d2ec",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 75000000
+      },
+      "type": "Takeoff",
+      "airplane": {
+        "id": "b0a36a8b-d6de-4903-9c8a-f470aeaa456b",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N12251",
+        "type": "Boeing 737",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 249,
+        "from": "DEN",
+        "passengers": 327,
+        "cargo": 17581,
+        "isFlying": true,
+        "fuelLevel": 43
+      },
+      "runway": {
+        "id": "Runway-22",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "73c7697b-2dbd-43b9-82c6-0e57623db51a",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 75000000
+        },
+        "temperature": 25,
+        "condition": "Sunny",
+        "windSpeed": 3,
+        "visibility": 2
+      },
+      "status": "rejected",
+      "reason": "Low fuel level"
+    },
+    {
+      "id": "45f0fed5-94ab-47a1-bbc6-0b9a915df4ec",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 75000000
+      },
+      "type": "Takeoff",
+      "airplane": {
+        "id": "d583b5df-f751-4c68-aa39-ca9b8fe983d0",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N32119",
+        "type": "Cessna 172",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 0,
+        "from": "",
+        "passengers": 244,
+        "cargo": 4910,
+        "isFlying": false,
+        "fuelLevel": 28
+      },
+      "runway": {
+        "id": "Runway-31R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 49000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "51c0050e-e933-479f-8ab5-9f4b0d002802",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 75000000
+        },
+        "temperature": 25,
+        "condition": "Rainy",
+        "windSpeed": 26,
+        "visibility": 8
+      },
+      "status": "rejected",
+      "reason": "Low fuel level"
+    },
+    {
+      "id": "8bf979d0-4e77-4887-8bb1-4180b5b5ce94",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 75000000
+      },
+      "type": "Takeoff",
+      "airplane": {
+        "id": "99aaee9c-c2a5-4757-be17-334589645745",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N40913",
+        "type": "Boeing 787",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 294,
+        "from": "SFO",
+        "passengers": 138,
+        "cargo": 10093,
+        "isFlying": true,
+        "fuelLevel": 48
+      },
+      "runway": {
+        "id": "Runway-19R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "47b7410b-0997-41de-bd18-56d5a9c76976",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 75000000
+        },
+        "temperature": -26,
+        "condition": "Snowy",
+        "windSpeed": 2,
+        "visibility": 2
+      },
+      "status": "rejected",
+      "reason": "Low fuel level"
+    },
+    {
+      "id": "be777ef8-7a18-46b3-a802-943556ae66c4",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 75000000
+      },
+      "type": "Takeoff",
+      "airplane": {
+        "id": "d1926f20-4ed6-499a-a6b0-1918a36e51f9",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N16880",
+        "type": "Cessna 172",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 284,
+        "from": "BOS",
+        "passengers": 156,
+        "cargo": 10163,
+        "isFlying": true,
+        "fuelLevel": 34
+      },
+      "runway": {
+        "id": "Runway-9L",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "5ed67671-ff33-4d14-ab1f-3d52aa4bbead",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 75000000
+        },
+        "temperature": 32,
+        "condition": "Cloudy",
+        "windSpeed": 19,
+        "visibility": 10
+      },
+      "status": "rejected",
+      "reason": "Low fuel level"
+    },
+    {
+      "id": "487ae446-5443-4ee7-9b64-941920f083df",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 75000000
+      },
+      "type": "Takeoff",
+      "airplane": {
+        "id": "336cc5fb-1eee-4dab-b9bf-d8d76fce9a30",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N31692",
+        "type": "Airbus A350",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 0,
+        "from": "",
+        "passengers": 4,
+        "cargo": 16177,
+        "isFlying": false,
+        "fuelLevel": 49
+      },
+      "runway": {
+        "id": "Runway-22",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "15852148-3ed2-4592-8313-501ffb6fa9a7",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 75000000
+        },
+        "temperature": 33,
+        "condition": "Rainy",
+        "windSpeed": 15,
+        "visibility": 9
+      },
+      "status": "rejected",
+      "reason": "Low fuel level"
+    },
+    {
+      "id": "6ef56e4e-b292-4516-a19c-ef1e72b1f833",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 76000000
+      },
+      "type": "Takeoff",
+      "airplane": {
+        "id": "856b090c-2391-4d99-838e-368051488491",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N24079",
+        "type": "Airbus A320",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 0,
+        "from": "",
+        "passengers": 87,
+        "cargo": 3143,
+        "isFlying": false,
+        "fuelLevel": 41
+      },
+      "runway": {
+        "id": "Runway-31R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 49000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "c005156f-cc82-4ba1-90ff-63bb29858cb2",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 76000000
+        },
+        "temperature": 30,
+        "condition": "Stormy",
+        "windSpeed": 0,
+        "visibility": 3
+      },
+      "status": "rejected",
+      "reason": "Low fuel level"
+    },
+    {
+      "id": "9c8d9444-cee4-4ccf-aac9-bdef9813930f",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 76000000
+      },
+      "type": "Takeoff",
+      "airplane": {
+        "id": "b8597fa2-f50a-4a8a-9031-36f227a2e9ef",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 668000000
+        },
+        "tailNumber": "N78891",
+        "type": "Embraer E190",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 0,
+        "from": "",
+        "passengers": 380,
+        "cargo": 16471,
+        "isFlying": false,
+        "fuelLevel": 44
+      },
+      "runway": {
+        "id": "Runway-19R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "04bf0ebc-c4f3-411b-ac95-d632e3e1cfd9",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 76000000
+        },
+        "temperature": 34,
+        "condition": "Sunny",
+        "windSpeed": 9,
+        "visibility": 3
+      },
+      "status": "rejected",
+      "reason": "Low fuel level"
+    }
+  ],
+  "landingRequests": [
+    {
+      "id": "2b2750e5-7b9c-42e2-8eeb-55e010217f4a",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 315000000
+      },
+      "type": "Landing",
+      "airplane": {
+        "id": "3ab202ab-5f54-46a7-92ef-90d96cf46e99",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 666000000
+        },
+        "tailNumber": "N72068",
+        "type": "Airbus A320",
+        "altitude": 1000,
+        "speed": 200,
+        "heading": 41,
+        "from": "DEN",
+        "passengers": 379,
+        "cargo": 14426,
+        "isFlying": true,
+        "fuelLevel": 3
+      },
+      "runway": {
+        "id": "Runway-31R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 49000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "64e8927a-8de3-4f38-b587-7bb9bc0124f5",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 315000000
+        },
+        "temperature": 25,
+        "condition": "Stormy",
+        "windSpeed": 13,
+        "visibility": 8
+      },
+      "status": "rejected",
+      "reason": "Weather condition: Stormy"
+    },
+    {
+      "id": "f68017d1-199b-4159-be76-845ad297f10a",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 315000000
+      },
+      "type": "Landing",
+      "airplane": {
+        "id": "ea5a8b83-1ce1-4fd0-ad5c-96b1d4fbd8ee",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N63110",
+        "type": "Boeing 737",
+        "altitude": 1000,
+        "speed": 200,
+        "heading": 145,
+        "from": "SFO",
+        "passengers": 151,
+        "cargo": 16370,
+        "isFlying": true,
+        "fuelLevel": 61
+      },
+      "runway": {
+        "id": "Runway-19R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "eb2d7779-f814-4075-ba6a-2a58901bd660",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 315000000
+        },
+        "temperature": 25,
+        "condition": "Cloudy",
+        "windSpeed": 0,
+        "visibility": 2
+      },
+      "status": "rejected",
+      "reason": "Low visibility"
+    },
+    {
+      "id": "2245b83a-db3a-47f9-b12b-ac9784e579cd",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 315000000
+      },
+      "type": "Landing",
+      "airplane": {
+        "id": "ee80a8fb-867e-4ead-92ae-b0fa6891d48c",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N32099",
+        "type": "Boeing 737",
+        "altitude": 1000,
+        "speed": 200,
+        "heading": 131,
+        "from": "ATL",
+        "passengers": 266,
+        "cargo": 15841,
+        "isFlying": true,
+        "fuelLevel": -274
+      },
+      "runway": {
+        "id": "Runway-9L",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "c9f9c4c5-859a-4c2d-8619-5350da58e328",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 315000000
+        },
+        "temperature": 31,
+        "condition": "Snowy",
+        "windSpeed": 27,
+        "visibility": 5
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    },
+    {
+      "id": "3133f10a-2d7a-40f6-84f8-e943371aa5a2",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 315000000
+      },
+      "type": "Landing",
+      "airplane": {
+        "id": "b0a36a8b-d6de-4903-9c8a-f470aeaa456b",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N12251",
+        "type": "Boeing 737",
+        "altitude": 1000,
+        "speed": 200,
+        "heading": 249,
+        "from": "DEN",
+        "passengers": 327,
+        "cargo": 17581,
+        "isFlying": true,
+        "fuelLevel": -202
+      },
+      "runway": {
+        "id": "Runway-22",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "917130c0-98ec-4771-b38a-eef6109db056",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 315000000
+        },
+        "temperature": 29,
+        "condition": "Snowy",
+        "windSpeed": 23,
+        "visibility": 7
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    },
+    {
+      "id": "3c72a749-f109-4069-9632-3a41a57304d5",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 315000000
+      },
+      "type": "Landing",
+      "airplane": {
+        "id": "d583b5df-f751-4c68-aa39-ca9b8fe983d0",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N32119",
+        "type": "Cessna 172",
+        "altitude": 1000,
+        "speed": 200,
+        "heading": 0,
+        "from": "",
+        "passengers": 244,
+        "cargo": 4910,
+        "isFlying": false,
+        "fuelLevel": -267
+      },
+      "runway": {
+        "id": "Runway-31R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 49000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "bb5a44dc-4c29-4dde-a3af-e9c973e9f67a",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 315000000
+        },
+        "temperature": -26,
+        "condition": "Sunny",
+        "windSpeed": 22,
+        "visibility": 8
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    },
+    {
+      "id": "44522acd-2aa6-43c2-89f0-8fb29a40ec8b",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 316000000
+      },
+      "type": "Landing",
+      "airplane": {
+        "id": "99aaee9c-c2a5-4757-be17-334589645745",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N40913",
+        "type": "Boeing 787",
+        "altitude": 1000,
+        "speed": 200,
+        "heading": 294,
+        "from": "SFO",
+        "passengers": 138,
+        "cargo": 10093,
+        "isFlying": true,
+        "fuelLevel": -247
+      },
+      "runway": {
+        "id": "Runway-19R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "20e81fc9-00ae-4fb6-b0ac-251c56dd51b5",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 316000000
+        },
+        "temperature": 27,
+        "condition": "Rainy",
+        "windSpeed": 25,
+        "visibility": 6
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    },
+    {
+      "id": "627fc810-eb23-45dd-8a12-b4ecc96e39e6",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 316000000
+      },
+      "type": "Landing",
+      "airplane": {
+        "id": "d1926f20-4ed6-499a-a6b0-1918a36e51f9",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N16880",
+        "type": "Cessna 172",
+        "altitude": 1000,
+        "speed": 200,
+        "heading": 284,
+        "from": "BOS",
+        "passengers": 156,
+        "cargo": 10163,
+        "isFlying": true,
+        "fuelLevel": -261
+      },
+      "runway": {
+        "id": "Runway-9L",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "1b8e126f-7c40-459b-867e-135071806771",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 316000000
+        },
+        "temperature": 28,
+        "condition": "Rainy",
+        "windSpeed": 27,
+        "visibility": 7
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    },
+    {
+      "id": "ac94b029-714a-4975-b45b-91498d383eed",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 316000000
+      },
+      "type": "Landing",
+      "airplane": {
+        "id": "336cc5fb-1eee-4dab-b9bf-d8d76fce9a30",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N31692",
+        "type": "Airbus A350",
+        "altitude": 1000,
+        "speed": 200,
+        "heading": 0,
+        "from": "",
+        "passengers": 4,
+        "cargo": 16177,
+        "isFlying": false,
+        "fuelLevel": 59
+      },
+      "runway": {
+        "id": "Runway-22",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "8c222cd5-72ca-45a9-9e29-9c9c16684a63",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 316000000
+        },
+        "temperature": 29,
+        "condition": "Cloudy",
+        "windSpeed": 6,
+        "visibility": 1
+      },
+      "status": "rejected",
+      "reason": "Low visibility"
+    },
+    {
+      "id": "750fcd91-b471-4a7e-8e78-5f6cb15b8ad1",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 316000000
+      },
+      "type": "Landing",
+      "airplane": {
+        "id": "856b090c-2391-4d99-838e-368051488491",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N24079",
+        "type": "Airbus A320",
+        "altitude": 1000,
+        "speed": 200,
+        "heading": 0,
+        "from": "",
+        "passengers": 87,
+        "cargo": 3143,
+        "isFlying": false,
+        "fuelLevel": -254
+      },
+      "runway": {
+        "id": "Runway-31R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 49000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "8a1811b6-a9cd-4b8c-b0e3-b4960f7d0621",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 316000000
+        },
+        "temperature": 27,
+        "condition": "Cloudy",
+        "windSpeed": 4,
+        "visibility": 8
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    },
+    {
+      "id": "811bc84e-d9fe-4808-a8e8-0d324e09603e",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 316000000
+      },
+      "type": "Landing",
+      "airplane": {
+        "id": "b8597fa2-f50a-4a8a-9031-36f227a2e9ef",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 668000000
+        },
+        "tailNumber": "N78891",
+        "type": "Embraer E190",
+        "altitude": 1000,
+        "speed": 200,
+        "heading": 0,
+        "from": "",
+        "passengers": 380,
+        "cargo": 16471,
+        "isFlying": false,
+        "fuelLevel": -211
+      },
+      "runway": {
+        "id": "Runway-19R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "24654e23-868a-4841-a237-20fcb523e344",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 316000000
+        },
+        "temperature": -29,
+        "condition": "Cloudy",
+        "windSpeed": 7,
+        "visibility": 10
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    }
+  ],
+  "taxiRequests": [
+    {
+      "id": "0947205b-c889-4178-abf5-c4bb87bc6c03",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 607000000
+      },
+      "type": "Taxi",
+      "airplane": {
+        "id": "3ab202ab-5f54-46a7-92ef-90d96cf46e99",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 666000000
+        },
+        "tailNumber": "N72068",
+        "type": "Airbus A320",
+        "altitude": 28167,
+        "speed": 578,
+        "heading": 41,
+        "from": "DEN",
+        "passengers": 379,
+        "cargo": 14426,
+        "isFlying": true,
+        "fuelLevel": 3
+      },
+      "runway": {
+        "id": "Runway-31R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 49000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "23178cba-bd82-47a9-aeb7-ebf14ada9156",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 607000000
+        },
+        "temperature": 29,
+        "condition": "Rainy",
+        "windSpeed": 22,
+        "visibility": 8
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    },
+    {
+      "id": "f00c975d-075f-43c2-8a81-4d3f0de494ad",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 607000000
+      },
+      "type": "Taxi",
+      "airplane": {
+        "id": "ea5a8b83-1ce1-4fd0-ad5c-96b1d4fbd8ee",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N63110",
+        "type": "Boeing 737",
+        "altitude": 24807,
+        "speed": 145,
+        "heading": 145,
+        "from": "SFO",
+        "passengers": 151,
+        "cargo": 16370,
+        "isFlying": true,
+        "fuelLevel": 61
+      },
+      "runway": {
+        "id": "Runway-19R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "25585077-dec6-4615-b4dc-d81cf46379a5",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 607000000
+        },
+        "temperature": 25,
+        "condition": "Stormy",
+        "windSpeed": 0,
+        "visibility": 7
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    },
+    {
+      "id": "571f9a31-3761-4c99-9e1c-c3dcda958274",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 607000000
+      },
+      "type": "Taxi",
+      "airplane": {
+        "id": "ee80a8fb-867e-4ead-92ae-b0fa6891d48c",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N32099",
+        "type": "Boeing 737",
+        "altitude": 12319,
+        "speed": 103,
+        "heading": 131,
+        "from": "ATL",
+        "passengers": 266,
+        "cargo": 15841,
+        "isFlying": true,
+        "fuelLevel": 21
+      },
+      "runway": {
+        "id": "Runway-9L",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "f4ec859e-0bc5-4cea-9353-5d2f400bcb11",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 607000000
+        },
+        "temperature": 29,
+        "condition": "Sunny",
+        "windSpeed": 3,
+        "visibility": 4
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    },
+    {
+      "id": "dda6a670-2ba5-4a8f-b011-4f02d3b3fdb0",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 608000000
+      },
+      "type": "Taxi",
+      "airplane": {
+        "id": "b0a36a8b-d6de-4903-9c8a-f470aeaa456b",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N12251",
+        "type": "Boeing 737",
+        "altitude": 24794,
+        "speed": 537,
+        "heading": 249,
+        "from": "DEN",
+        "passengers": 327,
+        "cargo": 17581,
+        "isFlying": true,
+        "fuelLevel": 93
+      },
+      "runway": {
+        "id": "Runway-22",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "fa9fe372-cc1a-496d-b35a-89af8cef798f",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 608000000
+        },
+        "temperature": -26,
+        "condition": "Cloudy",
+        "windSpeed": 2,
+        "visibility": 7
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    },
+    {
+      "id": "f5bd5855-ba34-4982-bbeb-f3793e82cf78",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 608000000
+      },
+      "type": "Taxi",
+      "airplane": {
+        "id": "d583b5df-f751-4c68-aa39-ca9b8fe983d0",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N32119",
+        "type": "Cessna 172",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 0,
+        "from": "",
+        "passengers": 244,
+        "cargo": 4910,
+        "isFlying": false,
+        "fuelLevel": 28
+      },
+      "runway": {
+        "id": "Runway-31R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 49000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "f28db25b-3843-4f45-973e-784f1518511d",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 608000000
+        },
+        "temperature": -29,
+        "condition": "Stormy",
+        "windSpeed": 6,
+        "visibility": 1
+      },
+      "status": "rejected",
+      "reason": "Low visibility"
+    },
+    {
+      "id": "6b8cadf7-922c-4046-9480-dff80b4ad738",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 608000000
+      },
+      "type": "Taxi",
+      "airplane": {
+        "id": "99aaee9c-c2a5-4757-be17-334589645745",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N40913",
+        "type": "Boeing 787",
+        "altitude": 27886,
+        "speed": 279,
+        "heading": 294,
+        "from": "SFO",
+        "passengers": 138,
+        "cargo": 10093,
+        "isFlying": true,
+        "fuelLevel": 48
+      },
+      "runway": {
+        "id": "Runway-19R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "5b4d09b3-b92f-42d6-8354-8fcbc131f7b3",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 608000000
+        },
+        "temperature": 25,
+        "condition": "Snowy",
+        "windSpeed": 27,
+        "visibility": 3
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    },
+    {
+      "id": "9a1e6b94-5afc-407e-b442-81455116b7ce",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 608000000
+      },
+      "type": "Taxi",
+      "airplane": {
+        "id": "d1926f20-4ed6-499a-a6b0-1918a36e51f9",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N16880",
+        "type": "Cessna 172",
+        "altitude": 22907,
+        "speed": 229,
+        "heading": 284,
+        "from": "BOS",
+        "passengers": 156,
+        "cargo": 10163,
+        "isFlying": true,
+        "fuelLevel": 34
+      },
+      "runway": {
+        "id": "Runway-9L",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "f60bf705-ff48-4307-bd98-0f969f8d103e",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 608000000
+        },
+        "temperature": 26,
+        "condition": "Sunny",
+        "windSpeed": 13,
+        "visibility": 8
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    },
+    {
+      "id": "95030729-3e40-4936-a533-175ce537d095",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 608000000
+      },
+      "type": "Taxi",
+      "airplane": {
+        "id": "336cc5fb-1eee-4dab-b9bf-d8d76fce9a30",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N31692",
+        "type": "Airbus A350",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 0,
+        "from": "",
+        "passengers": 4,
+        "cargo": 16177,
+        "isFlying": false,
+        "fuelLevel": 59
+      },
+      "runway": {
+        "id": "Runway-22",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "69bbc53d-5fe0-4c41-9afc-1b3c2d253ad2",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 608000000
+        },
+        "temperature": 30,
+        "condition": "Snowy",
+        "windSpeed": 1,
+        "visibility": 4
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    },
+    {
+      "id": "e133dfcd-1e70-43e3-9cc9-a553f66cf9a0",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 608000000
+      },
+      "type": "Taxi",
+      "airplane": {
+        "id": "856b090c-2391-4d99-838e-368051488491",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N24079",
+        "type": "Airbus A320",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 0,
+        "from": "",
+        "passengers": 87,
+        "cargo": 3143,
+        "isFlying": false,
+        "fuelLevel": 41
+      },
+      "runway": {
+        "id": "Runway-31R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 49000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "1ae4815a-c80c-49aa-a9be-e6048531b767",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 608000000
+        },
+        "temperature": 30,
+        "condition": "Sunny",
+        "windSpeed": 26,
+        "visibility": 8
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    },
+    {
+      "id": "2485005f-ee02-4e39-b6b2-e0dfc8e5a34d",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 608000000
+      },
+      "type": "Taxi",
+      "airplane": {
+        "id": "b8597fa2-f50a-4a8a-9031-36f227a2e9ef",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 668000000
+        },
+        "tailNumber": "N78891",
+        "type": "Embraer E190",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 0,
+        "from": "",
+        "passengers": 380,
+        "cargo": 16471,
+        "isFlying": false,
+        "fuelLevel": 84
+      },
+      "runway": {
+        "id": "Runway-19R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "bbd9da57-d309-4368-b94d-c4f63c6e1c43",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 608000000
+        },
+        "temperature": 29,
+        "condition": "Snowy",
+        "windSpeed": 4,
+        "visibility": 2
+      },
+      "status": "approved",
+      "reason": "Unknown reason"
+    }
+  ],
+  "emergencyRequests": [
+    {
+      "id": "6a48eef3-1620-4d02-a436-a0b7446a169b",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 902000000
+      },
+      "type": "Emergency",
+      "airplane": {
+        "id": "3ab202ab-5f54-46a7-92ef-90d96cf46e99",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 666000000
+        },
+        "tailNumber": "N72068",
+        "type": "Airbus A320",
+        "altitude": 28167,
+        "speed": 578,
+        "heading": 41,
+        "from": "DEN",
+        "passengers": 379,
+        "cargo": 14426,
+        "isFlying": true,
+        "fuelLevel": 3
+      },
+      "runway": {
+        "id": "Runway-31R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 49000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "3a5ae2f3-ea99-4d6c-9597-8a98ddeec707",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 902000000
+        },
+        "temperature": 30,
+        "condition": "Rainy",
+        "windSpeed": 27,
+        "visibility": 2
+      },
+      "status": "rejected",
+      "reason": "Runway not available",
+      "emergencyReason": "Fire",
+      "needAssistance": false
+    },
+    {
+      "id": "9f049a1d-1431-4356-b80e-141e2601c611",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 902000000
+      },
+      "type": "Emergency",
+      "airplane": {
+        "id": "ea5a8b83-1ce1-4fd0-ad5c-96b1d4fbd8ee",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N63110",
+        "type": "Boeing 737",
+        "altitude": 24807,
+        "speed": 145,
+        "heading": 145,
+        "from": "SFO",
+        "passengers": 151,
+        "cargo": 16370,
+        "isFlying": true,
+        "fuelLevel": 61
+      },
+      "runway": {
+        "id": "Runway-19R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "6075c02c-4e96-40a9-a680-42207402b028",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 902000000
+        },
+        "temperature": 28,
+        "condition": "Rainy",
+        "windSpeed": 9,
+        "visibility": 9
+      },
+      "status": "rejected",
+      "reason": "Runway not available",
+      "emergencyReason": "Medical",
+      "needAssistance": false
+    },
+    {
+      "id": "16c15b64-9223-4bdd-b74b-662b149f2a78",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 902000000
+      },
+      "type": "Emergency",
+      "airplane": {
+        "id": "ee80a8fb-867e-4ead-92ae-b0fa6891d48c",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N32099",
+        "type": "Boeing 737",
+        "altitude": 12319,
+        "speed": 103,
+        "heading": 131,
+        "from": "ATL",
+        "passengers": 266,
+        "cargo": 15841,
+        "isFlying": true,
+        "fuelLevel": 21
+      },
+      "runway": {
+        "id": "Runway-9L",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "0e3871fb-f630-4f2f-95fa-ac124b13c869",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 902000000
+        },
+        "temperature": 27,
+        "condition": "Snowy",
+        "windSpeed": 28,
+        "visibility": 5
+      },
+      "status": "rejected",
+      "reason": "Runway not available",
+      "emergencyReason": "Technical",
+      "needAssistance": false
+    },
+    {
+      "id": "fa0339ef-da7f-46ce-94e2-9a7979b714a8",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 902000000
+      },
+      "type": "Emergency",
+      "airplane": {
+        "id": "b0a36a8b-d6de-4903-9c8a-f470aeaa456b",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N12251",
+        "type": "Boeing 737",
+        "altitude": 24794,
+        "speed": 537,
+        "heading": 249,
+        "from": "DEN",
+        "passengers": 327,
+        "cargo": 17581,
+        "isFlying": true,
+        "fuelLevel": 93
+      },
+      "runway": {
+        "id": "Runway-22",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "9e40df3e-df85-4477-913d-5583f0b6d0b9",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 902000000
+        },
+        "temperature": 28,
+        "condition": "Cloudy",
+        "windSpeed": 3,
+        "visibility": 1
+      },
+      "status": "rejected",
+      "reason": "Runway not available",
+      "emergencyReason": "Fire",
+      "needAssistance": false
+    },
+    {
+      "id": "8eeb2b62-d739-4aac-a2ad-a93c33a1d9c8",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 902000000
+      },
+      "type": "Emergency",
+      "airplane": {
+        "id": "d583b5df-f751-4c68-aa39-ca9b8fe983d0",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N32119",
+        "type": "Cessna 172",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 0,
+        "from": "",
+        "passengers": 244,
+        "cargo": 4910,
+        "isFlying": false,
+        "fuelLevel": 28
+      },
+      "runway": {
+        "id": "Runway-31R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 49000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "32d1dd2d-c9b1-4f8e-8187-42bb17a09b6f",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 902000000
+        },
+        "temperature": 25,
+        "condition": "Rainy",
+        "windSpeed": 11,
+        "visibility": 2
+      },
+      "status": "rejected",
+      "reason": "Runway not available",
+      "emergencyReason": "Medical",
+      "needAssistance": false
+    },
+    {
+      "id": "4350680a-ed5c-4136-ad33-ea89b32c4c75",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 903000000
+      },
+      "type": "Emergency",
+      "airplane": {
+        "id": "99aaee9c-c2a5-4757-be17-334589645745",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N40913",
+        "type": "Boeing 787",
+        "altitude": 27886,
+        "speed": 279,
+        "heading": 294,
+        "from": "SFO",
+        "passengers": 138,
+        "cargo": 10093,
+        "isFlying": true,
+        "fuelLevel": 48
+      },
+      "runway": {
+        "id": "Runway-19R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "b83cdea2-bce7-4989-bce5-f63b6832a07d",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 903000000
+        },
+        "temperature": 26,
+        "condition": "Sunny",
+        "windSpeed": 13,
+        "visibility": 7
+      },
+      "status": "rejected",
+      "reason": "Runway not available",
+      "emergencyReason": "Technical",
+      "needAssistance": false
+    },
+    {
+      "id": "a74b4211-76e5-4ef6-9b4e-af56232f764c",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 903000000
+      },
+      "type": "Emergency",
+      "airplane": {
+        "id": "d1926f20-4ed6-499a-a6b0-1918a36e51f9",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N16880",
+        "type": "Cessna 172",
+        "altitude": 22907,
+        "speed": 229,
+        "heading": 284,
+        "from": "BOS",
+        "passengers": 156,
+        "cargo": 10163,
+        "isFlying": true,
+        "fuelLevel": 34
+      },
+      "runway": {
+        "id": "Runway-9L",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "7080bd3a-cd12-43e8-9e7c-cd4e403fcc87",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 903000000
+        },
+        "temperature": -35,
+        "condition": "Rainy",
+        "windSpeed": 29,
+        "visibility": 2
+      },
+      "status": "rejected",
+      "reason": "Runway not available",
+      "emergencyReason": "Fire",
+      "needAssistance": false
+    },
+    {
+      "id": "aa8d9a3c-2dd8-4d79-a162-2d7bb92e9b24",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 903000000
+      },
+      "type": "Emergency",
+      "airplane": {
+        "id": "336cc5fb-1eee-4dab-b9bf-d8d76fce9a30",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N31692",
+        "type": "Airbus A350",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 0,
+        "from": "",
+        "passengers": 4,
+        "cargo": 16177,
+        "isFlying": false,
+        "fuelLevel": 59
+      },
+      "runway": {
+        "id": "Runway-22",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "e981cf59-d785-4610-b58f-321840717959",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 903000000
+        },
+        "temperature": -26,
+        "condition": "Stormy",
+        "windSpeed": 0,
+        "visibility": 10
+      },
+      "status": "rejected",
+      "reason": "Runway not available",
+      "emergencyReason": "Medical",
+      "needAssistance": false
+    },
+    {
+      "id": "df71589d-a975-459d-8d1a-ab0a55edd410",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 903000000
+      },
+      "type": "Emergency",
+      "airplane": {
+        "id": "856b090c-2391-4d99-838e-368051488491",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 667000000
+        },
+        "tailNumber": "N24079",
+        "type": "Airbus A320",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 0,
+        "from": "",
+        "passengers": 87,
+        "cargo": 3143,
+        "isFlying": false,
+        "fuelLevel": 41
+      },
+      "runway": {
+        "id": "Runway-31R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 49000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "b16a26ea-7b14-40c4-b88d-c92c8fd0ad67",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 903000000
+        },
+        "temperature": -34,
+        "condition": "Stormy",
+        "windSpeed": 13,
+        "visibility": 3
+      },
+      "status": "rejected",
+      "reason": "Runway not available",
+      "emergencyReason": "Technical",
+      "needAssistance": false
+    },
+    {
+      "id": "21069d14-da1c-4466-980d-4f02048c6c95",
+      "collection": "requests",
+      "timestamp": {
+        "seconds": 1718843335,
+        "nanoseconds": 903000000
+      },
+      "type": "Emergency",
+      "airplane": {
+        "id": "b8597fa2-f50a-4a8a-9031-36f227a2e9ef",
+        "collection": "airplanes",
+        "timestamp": {
+          "seconds": 1718843334,
+          "nanoseconds": 668000000
+        },
+        "tailNumber": "N78891",
+        "type": "Embraer E190",
+        "altitude": 0,
+        "speed": 0,
+        "heading": 0,
+        "from": "",
+        "passengers": 380,
+        "cargo": 16471,
+        "isFlying": false,
+        "fuelLevel": 84
+      },
+      "runway": {
+        "id": "Runway-19R",
+        "collection": "runways",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 50000000
+        },
+        "isAvailable": true
+      },
+      "weather": {
+        "id": "86cd7266-88ab-4ad8-a944-b789354ef44e",
+        "collection": "weather",
+        "timestamp": {
+          "seconds": 1718843335,
+          "nanoseconds": 903000000
+        },
+        "temperature": -30,
+        "condition": "Stormy",
+        "windSpeed": 8,
+        "visibility": 4
+      },
+      "status": "rejected",
+      "reason": "Runway not available",
+      "emergencyReason": "Fire",
+      "needAssistance": false
+    }
+  ]
+}
