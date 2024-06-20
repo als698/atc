@@ -1,0 +1,37 @@
+{
+  "hosting": [
+    {
+      "site": "ai-atc-utm",
+      "public": ".output/public",
+      "cleanUrls": true,
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ],
+      "headers": [
+        {
+          "source": "**/*.{js,css,png,jpg,jpeg,gif,svg,eot,ttf,woff,woff2,webp}",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "public, max-age=31536000"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "emulators": {
+    "auth": {
+      "port": 9099
+    },
+    "firestore": {
+      "port": 8080
+    },
+    "ui": {
+      "enabled": true
+    }
+  }
+}
